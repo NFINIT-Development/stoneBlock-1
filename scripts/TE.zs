@@ -1,7 +1,6 @@
 mods.thermalexpansion.InductionSmelter.addRecipe(<appliedenergistics2:material:15>, <thermalfoundation:storage_alloy:2>, <minecraft:gold_ingot>, 1500);
 mods.thermalexpansion.InductionSmelter.addRecipe(<appliedenergistics2:material:14>, <thermalfoundation:storage_alloy:2>, <minecraft:diamond>, 1500);
 mods.thermalexpansion.InductionSmelter.addRecipe(<appliedenergistics2:material:13>, <thermalfoundation:storage_alloy:2>, <appliedenergistics2:material>, 1500);
-mods.thermalexpansion.InductionSmelter.addRecipe(<appliedenergistics2:material:19>, <thermalfoundation:storage_alloy:2>, <refinedstorage:silicon>, 1500);
 mods.thermalexpansion.InductionSmelter.addRecipe(<appliedenergistics2:material:19>, <thermalfoundation:storage_alloy:2>, <enderio:item_material:5>, 1500);
 
 mods.thermalexpansion.InductionSmelter.addRecipe(<minecraft:iron_ore>, <exnihilocreatio:item_ore_iron:1> *2, <minecraft:stone>, 1500);
@@ -47,8 +46,7 @@ mods.thermalexpansion.Insolator.addRecipe(<mysticalagriculture:grains_of_infinit
 
 mods.thermalexpansion.InductionSmelter.addRecipe(<enderio:item_alloy_ingot>, <thermalfoundation:material:160>, <enderio:item_material:5>, 8400);
 mods.thermalexpansion.InductionSmelter.addRecipe(<enderio:item_alloy_ingot>, <thermalfoundation:material:96>, <enderio:item_material:5>, 8400);
-mods.thermalexpansion.InductionSmelter.addRecipe(<enderio:item_alloy_ingot>, <thermalfoundation:material:160>, <refinedstorage:silicon>, 8400);
-mods.thermalexpansion.InductionSmelter.addRecipe(<enderio:item_alloy_ingot>, <thermalfoundation:material:96>, <refinedstorage:silicon>, 8400);
+
 
 //TP Steel recipe
 recipes.remove(<tp:steel_ingot>);

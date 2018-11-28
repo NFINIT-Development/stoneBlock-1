@@ -152,14 +152,6 @@ recipes.addShaped( < aroma1997sdimension: miningmultitool > , [
   [null, < minecraft: stick > , null]
 ]);
 
-//making Dim builder late game
-recipes.remove( < rftoolsdim: dimension_builder > );
-recipes.addShaped( < rftoolsdim: dimension_builder > , [
-  [ < minecraft: ender_pearl > , < minecraft: diamond > , < minecraft: ender_pearl > ],
-  [ < minecraft: diamond > , < rftools: machine_frame > , < minecraft: diamond > ],
-  [ < ore: ingotDraconiumAwakened > , < ore: ingotDraconiumAwakened > , < ore: ingotDraconiumAwakened > ]
-]);
-
 //tconstruct:stone_stick
 recipes.remove( < tconstruct: stone_stick > );
 recipes.addShaped( < tconstruct: stone_stick > * 2, [
