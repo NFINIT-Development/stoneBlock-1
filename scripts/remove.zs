@@ -14,9 +14,7 @@ mods.jei.JEI.removeAndHide(<exnihilocreatio:item_seed_jungle>);
 mods.jei.JEI.removeAndHide(<exnihilocreatio:item_seed_acacia>);
 mods.jei.JEI.removeAndHide(<exnihilocreatio:item_seed_darkoak>);
 
-mods.jei.JEI.removeAndHide(<quantumstorage:quantumcrafter>);
-mods.jei.JEI.removeAndHide(<quantumstorage:quantumstoragedisk>);
-mods.jei.JEI.removeAndHide(<quantumstorage:quantumstoragediskfluid>);
+
 
 //Removing randomthings Items
 mods.jei.JEI.removeAndHide(<randomthings:spectrekey>);

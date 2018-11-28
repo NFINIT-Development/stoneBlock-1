@@ -485,20 +485,6 @@ recipes.addShaped(<tp:dragon_boots>, [
   [<ore:dragonScale>, null, <ore:dragonScale>]
 ]);
 
-recipes.remove(<quantumstorage:trashcan>);
-recipes.addShaped(<quantumstorage:trashcan>, [
-  [<ore:stoneSlab>, <ore:stoneSlab>, <ore:stoneSlab>],
-  [<ore:cobblestone>, <ore:chest>, <ore:cobblestone>],
-  [<ore:cobblestone>, <ore:cobblestone>, <ore:cobblestone>]
-]);
-
-recipes.remove(<quantumstorage:trashcanfluid>);
-recipes.addShaped(<quantumstorage:trashcanfluid>, [
-  [<ore:stoneSlab>, <ore:stoneSlab>, <ore:stoneSlab>],
-  [<ore:cobblestone>, <minecraft:bucket>, <ore:cobblestone>],
-  [<ore:cobblestone>, <ore:cobblestone>, <ore:cobblestone>]
-]);
-
 recipes.remove(<mekanism:balloon>);
 recipes.addShaped(<mekanism:balloon> * 2, [
   [<minecraft:leather>, <minecraft:string>],
